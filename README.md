@@ -11,6 +11,7 @@ Through the analysis of the data presented in the Kickstarter set, it can be det
 When looking at the data on Theater campaign's over years, you can see a large spike in successful campaigns happens in May. Theater success starts to increase in March reaching its peak in May, then a steady decrease thought the end of the year. 
 
 ![Technology_Outcomes_vs_Launch](https://user-images.githubusercontent.com/83738699/122655309-fbdd4480-d116-11eb-99ea-24aa37d5c83a.png)
+
 Compared to Technology over years, the data is all over the place. While the successful Technology campaigns remains between 10 and 25, so does failed campaigns with a small drop in April.
 
 For the Edinburgh Festival Fringe, all five plays went over their goal. Cutting off Date Bush was the one with the most pledged, going over the goal by 1076 with only 78 backers. All five plays were very successful and could be considered for future campaigns. Although having a goal around 2000 would be an idea target area. 
